@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Bruno 👋
 
 <!--
 **bblazeka/bblazeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a full stack developer living in Graz, Austria. I have experience working with React, Node.js and C#.
+
+🔭 I’m currently open to work on new challenges either in Styria, Austria or remote!
+
+⚡ In my free time, I combine my interest for hockey with my passion for software development by developing [hockey deep dive](https://hockeydeepdive.site/) 
+
+📫 You can contact me via [email](mailto:bruno.blazeka@gmail.com?subject=Hi%20from%20GitHub)

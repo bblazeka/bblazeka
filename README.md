@@ -2,9 +2,9 @@
 
 I’m a full stack developer living in Graz, Austria. I have experience working on front-end and back-end positions with React, Node.js and C# (among others) and I speak fluent German and English.
 
-I'm eager to learn new things 🌱 and motivated to build great things together 👯
+I'm eager to learn new things 🌱 and motivated to build great things 👯
 
-🔭 I’m currently open to work on new challenges either in Styria, Austria or remote!
+<!--🔭 I’m currently open to work on new challenges either in Styria, Austria or remote!-->
 
 ⚡ In my free time, I combine my interest for hockey with my passion for software development by developing [hockey deep dive](https://hockeydeepdive.site/).
 

@@ -6,7 +6,7 @@ I'm eager to learn new things 🌱 and motivated to build great things 👯
 
 <!--🔭 I’m currently open to work on new challenges either in Styria, Austria or remote!-->
 
-⚡ In my free time, I combine my interest for hockey with my passion for software development by developing [hockey deep dive](https://hockeydeepdive.site/).
+<!--⚡ In my free time, I combine my interest for hockey with my passion for software development by developing [hockey deep dive](https://hockeydeepdive.site/).-->
 
 📫 You can contact me via [email](mailto:bruno.blazeka@gmail.com?subject=Hi%20from%20GitHub)
 
